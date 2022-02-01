@@ -5,5 +5,6 @@
 </head>
 <body>
 	<h1>hello <?php echo $name?></h1>
+	<h2>This is new line added to hello world branch</h2>
 </body>
 </html>
